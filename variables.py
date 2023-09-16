@@ -1,7 +1,7 @@
 # Enviroment variables for local path
 OUTPUT_DIR = '<your_own_local_path>'
 
-# Enviroment variables for print statements
+# Enviroment variables for log statements
 ERROR_MESSAGE = "Error in Marvel API request:"
 NO_RESULTS_MESSAGE = "No results found."
 CONNECTION_ERROR_MESSAGE = "Connection Error: Connection to the server was refused."
